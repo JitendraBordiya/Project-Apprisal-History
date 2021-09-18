@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppraisalHistory", "AppraisalHistory.csproj", "{D312C9C2-D9C3-478C-96BA-539C2E48585E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D312C9C2-D9C3-478C-96BA-539C2E48585E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D312C9C2-D9C3-478C-96BA-539C2E48585E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D312C9C2-D9C3-478C-96BA-539C2E48585E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D312C9C2-D9C3-478C-96BA-539C2E48585E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5BDC30B-4BB2-422F-9746-F324448A2825}
+	EndGlobalSection
+EndGlobal

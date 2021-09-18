@@ -1,0 +1,12 @@
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\bin\Debug\net5.0\Appraisal.deps.json
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\bin\Debug\net5.0\Appraisal.dll
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\bin\Debug\net5.0\ref\Appraisal.dll
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\bin\Debug\net5.0\Appraisal.pdb
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\obj\Debug\net5.0\Appraisal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\obj\Debug\net5.0\Appraisal.AssemblyInfoInputs.cache
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\obj\Debug\net5.0\Appraisal.AssemblyInfo.cs
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\obj\Debug\net5.0\Appraisal.csproj.CoreCompileInputs.cache
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\obj\Debug\net5.0\Appraisal.dll
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\obj\Debug\net5.0\ref\Appraisal.dll
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\obj\Debug\net5.0\Appraisal.pdb
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\Appraisal\obj\Debug\net5.0\Appraisal.csproj.AssemblyReference.cache
